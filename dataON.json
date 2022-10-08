@@ -35,11 +35,7 @@
         "title": "UNCHARTED 4",
         "image": "list4.jpg"
       },
-      {
-        "title": "SPIDER MAN",
-        "image": "list5.jpg"
 
-      },
      
 
   
@@ -164,35 +160,6 @@
        "isNative": "false"
        }
 
-    ],
 
-    "content5": [
-      {
-        "ordered": "image_text",
-        "color": "#b82507","style": "italic",
-        "gravity": "left",
-        "left": "11",
-        "text_size": "30",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Don’t get too button mashy when you’re fighting",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#4c698c","style": "italic",
-        "gravity": "left",
-        "left": "7",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link":"content5/5.jpg",
-        "text": "There are a lot of different enemy types and certain kinds can only be beaten in specific ways.",
-        "isNative": "true"
-      
-       }
 
     ],
