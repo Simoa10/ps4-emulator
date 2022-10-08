@@ -5,91 +5,194 @@
     "AdsController": [
       {
         "NetworkAds": "admob",
-        "AdMobId": "pub-3940256099942544",
+        "AdMobId": "pub-6470875939481602",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-6470875939481602/4392777559",
+        "InterstitialAdmob": "ca-app-pub-6470875939481602/7802659082",
+        "NativeAdmob": "ca-app-pub-6470875939481602/9417873525",
 
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
 
       }
     ],
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg"
+        "title": "GRAND THEFT AUTO V",
+        "image": "list1.jpg"
       },
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg"
+        "title": "FORTNITE",
+        "image": "list2.jpg"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
+        "title": "FIFA22",
+        "image": "list3.jpg"
       },
       {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
+        "title": "UNCHARTED 4",
+        "image": "list4.jpg"
       },
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
+        "title": "SPIDER MAN",
+        "image": "list5.jpg"
+
       },
-      {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
-      }
-    ],
+     
+
+  
 
     "content1": [
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+        "color": "#b82507","style": "italic",
         "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
+        "left": "12",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
-        "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "How to Complete story missions",
         "isNative": "false"
-      }
-    ]
-  }
-}
+      },
+      {
+        "ordered": "image_text",
+        "color": "#4c698c","style": "blood",
+        "gravity": "left",
+        "left": "7",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/1.jpg",
+        "text": "Playing through GTA Online’s vast array of deathmatch types and races can feel generic. For something more bespoke, try some story missions.",
+        "isNative": "true"
+      
+       }
+
+    ],
+    
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#b82507#b82507#b82507","style": "italic",
+        "gravity": "left",
+        "left": "12",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Stay in cover",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#4c698c","style": "italic",
+        "gravity": "left",
+        "left": "7",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content2/2.jpg",
+        "text": "You should never run straight across open areas unless you absolutely have to, as that's the easiest way to get spotted by an opponent.",
+        "isNative": "true"
+      
+       }
+
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#b82507#b82507","style": "italic",
+        "gravity": "left",
+        "left": "11",
+        "text_size": "30",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "All La Liga is a good way to go",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#4c698c","style": "italic",
+        "gravity": "left",
+        "left": "7",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content3/3.jpg",
+        "text": "One final Ultimate Team tip concerns the make-up of your teamping up the value of cards assigned to that competition.",
+        "isNative": "false"
+    }
+
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#b82507","style": "italic",
+        "gravity": "left",
+        "left": "11",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Expect a slow burn in the early game",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#4c698c","style": "italic",
+        "gravity": "left",
+        "left": "7",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content4/4.jpg",
+        "text": "After an explosive intro, Uncharted 4 rewinds time a bit to fill in a few gaps in Nathan Drake's back story.",
+       "isNative": "false"
+       }
+
+    ],
+
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#b82507","style": "italic",
+        "gravity": "left",
+        "left": "11",
+        "text_size": "30",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Don’t get too button mashy when you’re fighting",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#4c698c","style": "italic",
+        "gravity": "left",
+        "left": "7",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link":"content5/5.jpg",
+        "text": "There are a lot of different enemy types and certain kinds can only be beaten in specific ways.",
+        "isNative": "true"
+      
+       }
+
+    ],
